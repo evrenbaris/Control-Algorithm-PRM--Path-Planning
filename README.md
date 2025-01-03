@@ -10,7 +10,7 @@ Key features of PRM*:
 - Ensures asymptotic optimality.
 - Suitable for static environments with known obstacles.
 
-For more details, you can read the [Wikipedia article on Probabilistic Roadmap Methods](https://en.wikipedia.org/wiki/Probabilistic_Roadmap).
+For more details, you can read the [Wikipedia article on Probabilistic Roadmap Methods](https://en.wikipedia.org/wiki/Probabilistic_roadmap).
 
 ## Features
 - Generates random obstacles in a 2D space.
@@ -22,7 +22,4 @@ For more details, you can read the [Wikipedia article on Probabilistic Roadmap M
 - Python 3.8 or later
 - Required Libraries: `numpy`, `matplotlib`, `networkx`
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/PRM-Path-Planning.git
+
